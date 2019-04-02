@@ -1,0 +1,1 @@
+export const SEARCH_JSON_DATA = "SEARCH_JSON_DATA";
